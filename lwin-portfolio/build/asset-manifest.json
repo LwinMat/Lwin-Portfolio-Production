@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71d94014.css",
+    "main.js": "/static/js/main.9b246b6a.js",
+    "static/js/593.52dee7ad.chunk.js": "/static/js/593.52dee7ad.chunk.js",
+    "static/media/LwinPhoto3.jpg": "/static/media/LwinPhoto3.b89ccf2d063a7ada3608.jpg",
+    "static/media/Lwin-CV.pdf": "/static/media/Lwin-CV.75d993eccf5f81a43073.pdf",
+    "static/media/contact.png": "/static/media/contact.407cff975029a782d630.png",
+    "static/media/NEAR_Logo.png": "/static/media/NEAR_Logo.0428c4a7c4d547cb932f.png",
+    "static/media/ePortfolio.png": "/static/media/ePortfolio.f9b2b28faaf06b200908.png",
+    "index.html": "/index.html",
+    "main.71d94014.css.map": "/static/css/main.71d94014.css.map",
+    "main.9b246b6a.js.map": "/static/js/main.9b246b6a.js.map",
+    "593.52dee7ad.chunk.js.map": "/static/js/593.52dee7ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71d94014.css",
+    "static/js/main.9b246b6a.js"
+  ]
+}
