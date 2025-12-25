@@ -18,13 +18,13 @@ app.use("/api/v1/portfolio", require("./routes/portfolioRoute"));
 
 // serve static React files
 app.use(
-    express.static(path.join(__dirname, "client", "build"))
+    express.static(path.join(__dirname, "lwin-portfolio", "build"))
 );
 
 // React router fallback (EXCLUDES /api)
 app.get(/^\/(?!api).*/, (req, res) => {
     res.sendFile(
-        path.join(__dirname, "client/build/index.html")
+        path.join(__dirname, "lwin-portfolio/build/index.html")
     );
 });
 
