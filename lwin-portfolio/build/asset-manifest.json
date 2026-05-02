@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.71d94014.css",
-    "main.js": "/static/js/main.089c8c0f.js",
+    "main.css": "/static/css/main.38fa1c2c.css",
+    "main.js": "/static/js/main.cfc23ea5.js",
     "static/js/593.52dee7ad.chunk.js": "/static/js/593.52dee7ad.chunk.js",
+    "static/media/sample1.mp4": "/static/media/sample1.0b349c1bd10c7312f031.mp4",
+    "static/media/sample2.mp4": "/static/media/sample2.7e3eb3808f9d9b4209e9.mp4",
     "static/media/LwinPhoto3.jpg": "/static/media/LwinPhoto3.afbd56a05ee35ade652f.jpg",
-    "static/media/Lwin-CV.pdf": "/static/media/Lwin-CV.bcbce5d20063504c7c4d.pdf",
+    "static/media/Lwin-CV.pdf": "/static/media/Lwin-CV.2ac47f7a1a916baa1a38.pdf",
     "static/media/contact.png": "/static/media/contact.407cff975029a782d630.png",
     "static/media/NEAR_Logo.png": "/static/media/NEAR_Logo.0428c4a7c4d547cb932f.png",
     "static/media/ePortfolio.png": "/static/media/ePortfolio.f9b2b28faaf06b200908.png",
     "index.html": "/index.html",
-    "main.71d94014.css.map": "/static/css/main.71d94014.css.map",
-    "main.089c8c0f.js.map": "/static/js/main.089c8c0f.js.map",
+    "main.38fa1c2c.css.map": "/static/css/main.38fa1c2c.css.map",
+    "main.cfc23ea5.js.map": "/static/js/main.cfc23ea5.js.map",
     "593.52dee7ad.chunk.js.map": "/static/js/593.52dee7ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71d94014.css",
-    "static/js/main.089c8c0f.js"
+    "static/css/main.38fa1c2c.css",
+    "static/js/main.cfc23ea5.js"
   ]
 }
