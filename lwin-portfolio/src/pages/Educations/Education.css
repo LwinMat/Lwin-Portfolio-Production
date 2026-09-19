@@ -1,0 +1,143 @@
+.education {
+    margin: 50px 0px;
+    margin-left: 120px;
+    width: 90%;
+}
+
+.education hr {
+    color: #138781;
+    width: 400px;
+    margin: 10px auto;
+}
+
+.education h2 {
+    font-weight: bold;
+    color: #878513;
+}
+
+.education .row {
+    width: 90%;
+    display: flex;
+}
+
+
+/* Timeline custom styles extracted from Education.js */
+.timeline-item {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#timeline-duration {
+    font-family: 'Audiowide', sans-serif;
+    color: rgb(35, 78, 110);
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+#timeline-duration:hover {
+    color: #0ea0f5;
+    transition: 0.5s;
+    font-size: 25px;
+}
+
+
+.timeline-dot {
+    width: 80px !important;
+    height: 80px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.timeline-dot :hover {
+    width: 83px;
+    height: 83px;
+    transition: 0.5s;
+
+}
+
+
+.timeline-school {
+    font-weight: bold;
+    font-family: 'Audiowide', sans-serif;
+    color: #0d46afff;
+    font-size: 30px;
+    text-align: left;
+}
+
+.timeline-school:hover {
+    font-weight: bolder;
+    color: #138781;
+    transition: 0.5s;
+    font-size: 40px;
+}
+
+.timeline-degree {
+    font-family: 'Audiowide', sans-serif;
+    color: #0d46afff;
+}
+
+.timeline-degree:hover {
+    color: #138781;
+    transition: 0.5s;
+    font-size: 23px;
+}
+
+.timeline-detail {
+    font-family: 'Audiowide', sans-serif;
+}
+
+.timeline-detail:hover {
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+/* dark mode */
+#dark .education {
+    background-color: #065a6d;
+    color: #ffffff;
+}
+
+#dark .education hr {
+    color: #ffffff;
+}
+
+#dark .education h2 {
+    color: #ffffff;
+}
+
+#dark .timeline-school {
+    color: #ffffff;
+}
+
+#dark .timeline-degree {
+    color: #ffffff;
+}
+
+#dark .timeline-detail {
+    color: #ffffff;
+}
+
+#dark #timeline-duration {
+    color: #ffffff;
+}
+
+
+@media (max-width: 600px) {
+    .education {
+        margin: 0;
+        padding: 0;
+        margin-top: 30px;
+
+    }
+
+    .education h2 {
+        padding-top: 20px;
+    }
+
+    .education hr {
+        width: 280px;
+        margin-bottom: 10px;
+    }
+}
