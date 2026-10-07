@@ -5,7 +5,7 @@ import ProfilePic from '../../assets/images/LwinPhoto3.jpg';
 
 import Zoom from 'react-reveal/Zoom';
 
-import * as motion from "motion/react-client";
+import { motion } from 'framer-motion';
 
 import { Link } from 'react-scroll';
 

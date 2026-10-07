@@ -3,7 +3,7 @@ import './MobileNav.css';
 
 import { FcHome, FcAbout, FcPortraitMode, FcBiotech, FcReadingEbook, FcVideoProjector, FcBusinessContact } from 'react-icons/fc';
 import { Link } from 'react-scroll';
-import * as motion from "motion/react-client";
+import { motion } from 'framer-motion';
 
 import { AiOutlineMenuFold } from "react-icons/ai";
 import { IoMenu } from "react-icons/io5";

@@ -5,7 +5,7 @@ import Resume from '../../assets/docs/Lwin-Resume.pdf'
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { MdSunny } from "react-icons/md";
 
-import * as motion from "motion/react-client";
+import { motion } from 'framer-motion';
 
 import './home.css'
 
