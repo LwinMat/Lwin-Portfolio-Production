@@ -8,7 +8,7 @@ dotenv.config();
 
 // app
 const app = express();
-const buildPath = path.join(__dirname, "build");
+const buildPath = path.join(__dirname, "client", "build");
 
 // middleware
 app.use(cors());
